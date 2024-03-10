@@ -225,7 +225,7 @@ const MainPage = () => {
       <li>This app generates audio oscillations at 40Hz, with visual oscillations adapted to refresh rate.</li>
       </ul>
       <div className="flex justify-center py-2">
-      <p> <a className="underline" href="https://shuhari.me/posts/ggwp">Learn More</a> | <a className="underline" href="shuhari.me">Disclaimer</a> | <a className="underline" href="shuhari.me">License</a></p>
+      <p> <a className="underline" href="https://shuhari.me/posts/ggwp">Learn More</a> | <a className="underline" href="https://raw.githubusercontent.com/xywei/ggwp/main/DISCLAIMER.md">Disclaimer</a> | <a className="underline" href="https://raw.githubusercontent.com/xywei/ggwp/main/LICENSE.md">License</a></p>
       </div>
       </div>
     )}
